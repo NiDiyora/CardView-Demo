@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059879658167",
+    "project_id": "cardview-demo",
+    "storage_bucket": "cardview-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059879658167:android:8ed6fe25fe38d5c2d06332",
+        "android_client_info": {
+          "package_name": "com.example.cardviewdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059879658167-42iaaj61al497ee9h20e3nq9tosu3qb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWJ48PT0OWKZdglKrIkauKmWG9_rukio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059879658167-42iaaj61al497ee9h20e3nq9tosu3qb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
